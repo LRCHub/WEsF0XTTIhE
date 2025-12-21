@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "Fashion Week（feat. Benjazzy）",
+  "base_artist": "Watson",
+  "createdAt": "2025-12-21T14:29:34.919265Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Fashion Week (feat. AJ Tracey & MoStack)",
+      "artist": "Steel Banglez feat. AJ Tracey & MoStack",
+      "has_synced": true,
+      "path": "select/01_Fashion_Week_(feat._AJ_Tracey_&_MoStack)_Steel_Banglez_feat._AJ_Tracey_&_MoStack.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Fashion Week (feat. AJ Tracey & MoStack)",
+      "artist": "Steel Banglez",
+      "has_synced": true,
+      "path": "select/02_Fashion_Week_(feat._AJ_Tracey_&_MoStack)_Steel_Banglez.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Fashion Week (feat. G-Eazy)",
+      "artist": "Wale",
+      "has_synced": true,
+      "path": "select/03_Fashion_Week_(feat._G-Eazy)_Wale.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Fashion Week (feat. AJ Tracey & MoStack)",
+      "artist": "Steel Banglez; AJ Tracey; MoStack",
+      "has_synced": true,
+      "path": "select/04_Fashion_Week_(feat._AJ_Tracey_&_MoStack)_Steel_Banglez;_AJ_Tracey;_MoStack.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Fashion Week (feat. G-Eazy)",
+      "artist": "Wale/G-Eazy",
+      "has_synced": true,
+      "path": "select/05_Fashion_Week_(feat._G-Eazy)_Wale_G-Eazy.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Fashion Week (feat. Dani Faiv)",
+      "artist": "Jack The Smoker",
+      "has_synced": true,
+      "path": "select/06_Fashion_Week_(feat._Dani_Faiv)_Jack_The_Smoker.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Fashion Week feat. G‐Eazy",
+      "artist": "Wale",
+      "has_synced": true,
+      "path": "select/07_Fashion_Week_feat._G‐Eazy_Wale.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Fashion Week (feat. G-Eazy)",
+      "artist": "Wale",
+      "has_synced": true,
+      "path": "select/08_Fashion_Week_(feat._G-Eazy)_Wale.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Fashion Week (feat. G-Eazy)",
+      "artist": "Wale,G-Eazy",
+      "has_synced": true,
+      "path": "select/09_Fashion_Week_(feat._G-Eazy)_Wale,G-Eazy.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Fashion Week (feat. AJ Tracey & MoStack)",
+      "artist": "Steel Banglez\u0000AJ Tracey\u0000MoStack",
+      "has_synced": true,
+      "path": "select/10_Fashion_Week_(feat._AJ_Tracey_&_MoStack)_Steel_Banglez\u0000AJ_Tracey\u0000MoStack.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Fashion Week (feat. AJ Tracey & MoStack)",
+      "artist": "Steel Banglez",
+      "has_synced": true,
+      "path": "select/11_Fashion_Week_(feat._AJ_Tracey_&_MoStack)_Steel_Banglez.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Fashion Week (feat. AJ Tracey & MoStack)",
+      "artist": "S",
+      "has_synced": true,
+      "path": "select/12_Fashion_Week_(feat._AJ_Tracey_&_MoStack)_S.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Fashion Week (feat. Benjazzy)",
+      "artist": "Watson",
+      "has_synced": false,
+      "path": "select/pl_01_Fashion_Week_(feat._Benjazzy)_Watson.txt"
+    }
+  ]
+}
